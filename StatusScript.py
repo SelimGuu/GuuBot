@@ -66,4 +66,4 @@ async def ping(ctx: Context):
 
 
 
-client.run("ODI2NDg4MTczMTIyODEzOTc1.YGNNFw.XWfDQzz1oAMIFHJ8NjAIf-f-VW4")
+client.run("your token")
